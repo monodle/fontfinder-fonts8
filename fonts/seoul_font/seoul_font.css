@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-extrabold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-heavy.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangcb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangcb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangcbl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangcbl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangceb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangceb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangcl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangcl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangcm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangcm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangeb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangeb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulhangangm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsanb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsanb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsancb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsancb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsancbl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsancbl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsanceb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsanceb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsancl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsancl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsancm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsancm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsaneb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsaneb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsanl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsanl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsanm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsanm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulnamsanvert';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsanvert.woff2') format('woff2');
+}

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'sejong-hospital';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sejong-hospital-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'sejong-hospital';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sejong-hospital-bold.woff2') format('woff2');
+}

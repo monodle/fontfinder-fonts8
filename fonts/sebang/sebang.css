@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'sebang-gothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sebang-gothic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'sebang-gothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sebang-gothic-otf.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'sebang-gothic';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sebang-gothic-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'sebang-gothic';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sebang-gothic-otf-bold.woff2') format('woff2');
+}

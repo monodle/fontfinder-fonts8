@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'suncheonr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./suncheonr.woff2') format('woff2');
+}

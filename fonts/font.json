@@ -1,0 +1,3588 @@
+{
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts",
+  "fonts": [
+    {
+      "id": "otsahmyookuniversityl",
+      "family": "otsahmyookuniversityl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/syu_font/otsahmyookuniversityl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2024 Sahmyook University All right Reserved.",
+          "en": "Copyright 2024 Sahmyook University All right Reserved."
+        },
+        "Font Family": {
+          "ko": "삼육대체OTF Light",
+          "en": "Sahmyook UniversityOTF Light"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Sahmyook UniversityOTF Light"
+        },
+        "Full Font Name": {
+          "ko": "삼육대체OTF Light",
+          "en": "Sahmyook UniversityOTF Light"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTSahmyookUniversityL"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "삼육대체OTF",
+          "en": "Sahmyook UniversityOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "otsahmyookuniversityr",
+      "family": "otsahmyookuniversityr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/syu_font/otsahmyookuniversityr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2024 Sahmyook University All right Reserved.",
+          "en": "Copyright 2024 Sahmyook University All right Reserved."
+        },
+        "Font Family": {
+          "ko": "삼육대체OTF Regular",
+          "en": "Sahmyook UniversityOTF Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Sahmyook UniversityOTF Regular"
+        },
+        "Full Font Name": {
+          "ko": "삼육대체OTF Regular",
+          "en": "Sahmyook UniversityOTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTSahmyookUniversityR"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "삼육대체OTF",
+          "en": "Sahmyook UniversityOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "sebang",
+      "family": "sebang-gothic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.1",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/sebang/sebang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.sebang.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2020 �����. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2020 SEBANG CO., LTD. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "세방고딕 Bold",
+          "en": "SEBANG Gothic Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "FONTRIX;SEBANGGothicBold"
+        },
+        "Full Font Name": {
+          "ko": "세방고딕 Bold",
+          "en": "SEBANG Gothic Bold"
+        },
+        "Version": {
+          "en": "Version 1.1.1; Build Release"
+        },
+        "PostScript Name": {
+          "en": "SEBANGGothicBold"
+        },
+        "Trademark": {
+          "en": "SEBANG Gothic Bold is a registered trademark of SEBANG CO., LTD."
+        },
+        "Manufacturer": {
+          "ko": "세방㈜",
+          "en": "SEBANG CO., LTD"
+        },
+        "Designer": {
+          "ko": "박용락; 김민주; 박윤상;",
+          "en": "Park Young-rak; Kim Min-ju; Park Yun-sang;"
+        },
+        "URL Vendor": {
+          "en": "http://www.sebang.com"
+        },
+        "Typographic Family": {
+          "ko": "세방고딕",
+          "en": "SEBANG Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "sejong-otf",
+      "family": "sejong-hospital",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/sejong_otf/sejong_otf.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 by Hyewon medical foundation sejonghospital. All rights reserved.",
+          "en": "Copyright (c) 2022 by Hyewon medical foundation sejonghospital. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "세종병원체 Bold",
+          "en": "Sejong hospital Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TT;Sejong hospital Bold"
+        },
+        "Full Font Name": {
+          "ko": "세종병원체 Bold",
+          "en": "Sejong hospital Bold"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Sejong hospital Bold"
+        },
+        "Trademark": {
+          "ko": "Sejong hospital Bold is a trademark of Hyewon medical foundation sejonghospital.",
+          "en": "Sejong hospital Bold is a trademark of Hyewon medical foundation sejonghospital."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "ko": "혜원의료재단 세종병원",
+          "en": "Hyewon medical foundation sejonghospital"
+        },
+        "License Info URL": {
+          "en": "http://www.hyewonfoundation.co.kr/index"
+        },
+        "Typographic Family": {
+          "ko": "세종병원체",
+          "en": "Sejong hospital"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "seoulalrim",
+      "family": "seoulalrim",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        500,
+        700,
+        800,
+        900
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulalrim.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://www.seoul.go.kr/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2024 by Seoul Metropolitan Government. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "서울알림체 Bold",
+          "en": "SeoulAlrim Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;PTL ;SeoulAlrim-Bold"
+        },
+        "Full Font Name": {
+          "ko": "서울알림체 Bold",
+          "en": "SeoulAlrim Bold"
+        },
+        "Version": {
+          "en": "Version 1.020;Build 20250218"
+        },
+        "PostScript Name": {
+          "en": "SeoulAlrim-Bold"
+        },
+        "Trademark": {
+          "en": "SeoulAlrim is a trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Seoul Metropolitan Government",
+          "en": "Seoul Metropolitan Government."
+        },
+        "Designer": {
+          "en": "Tlab; July Type"
+        },
+        "URL Vendor": {
+          "en": "https://www.seoul.go.kr/"
+        },
+        "License Description": {
+          "en": "Seoul Metropolitan Government."
+        },
+        "License Info URL": {
+          "en": "https://www.seoul.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "서울알림체",
+          "en": "SeoulAlrim"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangb",
+      "family": "seoulhangangb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강체 B",
+          "en": "SeoulHangang B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "B",
+          "en": "B"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangB",
+          "en": "Seoul Metropolitan Government_SeoulHangangB"
+        },
+        "Full Font Name": {
+          "ko": "서울한강체 B",
+          "en": "SeoulHangang B"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangB",
+          "en": "SeoulHangangB"
+        },
+        "Trademark": {
+          "ko": "서울한강체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangang, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강체",
+          "en": "SeoulHangang"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangcb",
+      "family": "seoulhangangcb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangcb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강 장체 B",
+          "en": "SeoulHangangC B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "B",
+          "en": "B"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangCB",
+          "en": "Seoul Metropolitan Government_SeoulHangangCB"
+        },
+        "Full Font Name": {
+          "ko": "서울한강 장체 B",
+          "en": "SeoulHangangC B"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangCB",
+          "en": "SeoulHangangCB"
+        },
+        "Trademark": {
+          "ko": "서울한강 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangangC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강 장체",
+          "en": "SeoulHangangC"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangcbl",
+      "family": "seoulhangangcbl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangcbl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강 장체 BL",
+          "en": "SeoulHangangC BL"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "BL",
+          "en": "BL"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangCBL",
+          "en": "Seoul Metropolitan Government_SeoulHangangCBL"
+        },
+        "Full Font Name": {
+          "ko": "서울한강 장체 BL",
+          "en": "SeoulHangangC BL"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangCBL",
+          "en": "SeoulHangangCBL"
+        },
+        "Trademark": {
+          "ko": "서울한강 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangangC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강 장체",
+          "en": "SeoulHangangC"
+        },
+        "Typographic Subfamily": {
+          "ko": "BL",
+          "en": "BL"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangceb",
+      "family": "seoulhangangceb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangceb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강 장체 EB",
+          "en": "SeoulHangangC EB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "EB",
+          "en": "EB"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangCEB",
+          "en": "Seoul Metropolitan Government_SeoulHangangCEB"
+        },
+        "Full Font Name": {
+          "ko": "서울한강 장체 EB",
+          "en": "SeoulHangangC EB"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangCEB",
+          "en": "SeoulHangangCEB"
+        },
+        "Trademark": {
+          "ko": "서울한강 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangangC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강 장체",
+          "en": "SeoulHangangC"
+        },
+        "Typographic Subfamily": {
+          "ko": "EB",
+          "en": "EB"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangcl",
+      "family": "seoulhangangcl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangcl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강 장체 L",
+          "en": "SeoulHangangC L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "L",
+          "en": "L"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangCL",
+          "en": "Seoul Metropolitan Government_SeoulHangangCL"
+        },
+        "Full Font Name": {
+          "ko": "서울한강 장체 L",
+          "en": "SeoulHangangC L"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangCL",
+          "en": "SeoulHangangCL"
+        },
+        "Trademark": {
+          "ko": "서울한강 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangangC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강 장체",
+          "en": "SeoulHangangC"
+        },
+        "Typographic Subfamily": {
+          "ko": "L",
+          "en": "L"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangcm",
+      "family": "seoulhangangcm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangcm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강 장체 M",
+          "en": "SeoulHangangC M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "M",
+          "en": "M"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangCM",
+          "en": "Seoul Metropolitan Government_SeoulHangangCM"
+        },
+        "Full Font Name": {
+          "ko": "서울한강 장체 M",
+          "en": "SeoulHangangC M"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangCM",
+          "en": "SeoulHangangCM"
+        },
+        "Trademark": {
+          "ko": "서울한강 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangangC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강 장체",
+          "en": "SeoulHangangC"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangeb",
+      "family": "seoulhangangeb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangeb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강체 EB",
+          "en": "SeoulHangang EB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "EB",
+          "en": "EB"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangEB",
+          "en": "Seoul Metropolitan Government_SeoulHangangEB"
+        },
+        "Full Font Name": {
+          "ko": "서울한강체 EB",
+          "en": "SeoulHangang EB"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangEB",
+          "en": "SeoulHangangEB"
+        },
+        "Trademark": {
+          "ko": "서울한강체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangang, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강체",
+          "en": "SeoulHangang"
+        },
+        "Typographic Subfamily": {
+          "ko": "EB",
+          "en": "EB"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangl",
+      "family": "seoulhangangl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강체 L",
+          "en": "SeoulHangang L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "L",
+          "en": "L"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangL",
+          "en": "Seoul Metropolitan Government_SeoulHangangL"
+        },
+        "Full Font Name": {
+          "ko": "서울한강체 L",
+          "en": "SeoulHangang L"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangL",
+          "en": "SeoulHangangL"
+        },
+        "Trademark": {
+          "ko": "서울한강체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangang, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강체",
+          "en": "SeoulHangang"
+        },
+        "Typographic Subfamily": {
+          "ko": "L",
+          "en": "L"
+        }
+      }
+    },
+    {
+      "id": "seoulhangangm",
+      "family": "seoulhangangm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulhangangm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울한강체 M",
+          "en": "SeoulHangang M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "M",
+          "en": "M"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulHangangM",
+          "en": "Seoul Metropolitan Government_SeoulHangangM"
+        },
+        "Full Font Name": {
+          "ko": "서울한강체 M",
+          "en": "SeoulHangang M"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulHangangM",
+          "en": "SeoulHangangM"
+        },
+        "Trademark": {
+          "ko": "서울한강체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulHangang, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울한강체",
+          "en": "SeoulHangang"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsanb",
+      "family": "seoulnamsanb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsanb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산체 B",
+          "en": "SeoulNamsan B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "B",
+          "en": "B"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanB",
+          "en": "Seoul Metropolitan Government_SeoulNamsanB"
+        },
+        "Full Font Name": {
+          "ko": "서울남산체 B",
+          "en": "SeoulNamsan B"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanB",
+          "en": "SeoulNamsanB"
+        },
+        "Trademark": {
+          "ko": "서울남산체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsan, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산체",
+          "en": "SeoulNamsan"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsancb",
+      "family": "seoulnamsancb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsancb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산 장체 B",
+          "en": "SeoulNamsanC B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "B",
+          "en": "B"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanCB",
+          "en": "Seoul Metropolitan Government_SeoulNamsanCB"
+        },
+        "Full Font Name": {
+          "ko": "서울남산 장체 B",
+          "en": "SeoulNamsanC B"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanCB",
+          "en": "SeoulNamsanCB"
+        },
+        "Trademark": {
+          "ko": "서울남산 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsanC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산 장체",
+          "en": "SeoulNamsanC"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsancbl",
+      "family": "seoulnamsancbl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsancbl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산 장체 BL",
+          "en": "SeoulNamsanC BL"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "BL",
+          "en": "BL"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanCBL",
+          "en": "Seoul Metropolitan Government_SeoulNamsanCBL"
+        },
+        "Full Font Name": {
+          "ko": "서울남산 장체 BL",
+          "en": "SeoulNamsanC BL"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanCBL",
+          "en": "SeoulNamsanCBL"
+        },
+        "Trademark": {
+          "ko": "서울남산 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsanC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산 장체",
+          "en": "SeoulNamsanC"
+        },
+        "Typographic Subfamily": {
+          "ko": "BL",
+          "en": "BL"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsanceb",
+      "family": "seoulnamsanceb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsanceb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산 장체 EB",
+          "en": "SeoulNamsanC EB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "EB",
+          "en": "EB"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanCEB",
+          "en": "Seoul Metropolitan Government_SeoulNamsanCEB"
+        },
+        "Full Font Name": {
+          "ko": "서울남산 장체 EB",
+          "en": "SeoulNamsanC EB"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanCEB",
+          "en": "SeoulNamsanCEB"
+        },
+        "Trademark": {
+          "ko": "서울남산 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsanC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산 장체",
+          "en": "SeoulNamsanC"
+        },
+        "Typographic Subfamily": {
+          "ko": "EB",
+          "en": "EB"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsancl",
+      "family": "seoulnamsancl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsancl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산 장체 L",
+          "en": "SeoulNamsanC L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "L",
+          "en": "L"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanCL",
+          "en": "Seoul Metropolitan Government_SeoulNamsanCL"
+        },
+        "Full Font Name": {
+          "ko": "서울남산 장체 L",
+          "en": "SeoulNamsanC L"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanCL",
+          "en": "SeoulNamsanCL"
+        },
+        "Trademark": {
+          "ko": "서울남산 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsanC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산 장체",
+          "en": "SeoulNamsanC"
+        },
+        "Typographic Subfamily": {
+          "ko": "L",
+          "en": "L"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsancm",
+      "family": "seoulnamsancm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsancm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산 장체 M",
+          "en": "SeoulNamsanC M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "M",
+          "en": "M"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanCM",
+          "en": "Seoul Metropolitan Government_SeoulNamsanCM"
+        },
+        "Full Font Name": {
+          "ko": "서울남산 장체 M",
+          "en": "SeoulNamsanC M"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanCM",
+          "en": "SeoulNamsanCM"
+        },
+        "Trademark": {
+          "ko": "서울남산 장체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsanC, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산 장체",
+          "en": "SeoulNamsanC"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsaneb",
+      "family": "seoulnamsaneb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsaneb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산체 EB",
+          "en": "SeoulNamsan EB"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "EB",
+          "en": "EB"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanEB",
+          "en": "Seoul Metropolitan Government_SeoulNamsanEB"
+        },
+        "Full Font Name": {
+          "ko": "서울남산체 EB",
+          "en": "SeoulNamsan EB"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanEB",
+          "en": "SeoulNamsanEB"
+        },
+        "Trademark": {
+          "ko": "서울남산체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsan, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산체",
+          "en": "SeoulNamsan"
+        },
+        "Typographic Subfamily": {
+          "ko": "EB",
+          "en": "EB"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsanl",
+      "family": "seoulnamsanl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsanl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산체 L",
+          "en": "SeoulNamsan L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "L",
+          "en": "L"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanL",
+          "en": "Seoul Metropolitan Government_SeoulNamsanL"
+        },
+        "Full Font Name": {
+          "ko": "서울남산체 L",
+          "en": "SeoulNamsan L"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanL",
+          "en": "SeoulNamsanL"
+        },
+        "Trademark": {
+          "ko": "서울남산체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsan, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산체",
+          "en": "SeoulNamsan"
+        },
+        "Typographic Subfamily": {
+          "ko": "L",
+          "en": "L"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsanm",
+      "family": "seoulnamsanm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsanm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산체 M",
+          "en": "SeoulNamsan M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "M",
+          "en": "M"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanM",
+          "en": "Seoul Metropolitan Government_SeoulNamsanM"
+        },
+        "Full Font Name": {
+          "ko": "서울남산체 M",
+          "en": "SeoulNamsan M"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanM",
+          "en": "SeoulNamsanM"
+        },
+        "Trademark": {
+          "ko": "서울남산체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsan, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산체",
+          "en": "SeoulNamsan"
+        },
+        "Typographic Subfamily": {
+          "ko": "M",
+          "en": "M"
+        }
+      }
+    },
+    {
+      "id": "seoulnamsanvert",
+      "family": "seoulnamsanvert",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "3.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/seoul_font/seoulnamsanvert.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "COPYRIGHT ⓒ 2018 by 서울특별시 All rights reserved. Font designed by Type4Design CO., LTD.",
+          "en": "COPYRIGHT ⓒ 2018 by Seoul Metropolitan Government. All rights reserved.Font designed by Type4Design CO., LTD."
+        },
+        "Font Family": {
+          "ko": "서울남산체 vert",
+          "en": "SeoulNamsan vert"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "vert",
+          "en": "vert"
+        },
+        "Unique Font Identifier": {
+          "ko": "Seoul Metropolitan Government_SeoulNamsanvert",
+          "en": "Seoul Metropolitan Government_SeoulNamsanvert"
+        },
+        "Full Font Name": {
+          "ko": "서울남산체 vert",
+          "en": "SeoulNamsan vert"
+        },
+        "Version": {
+          "ko": "Version 3.2.0",
+          "en": "Version 3.2.0"
+        },
+        "PostScript Name": {
+          "ko": "SeoulNamsanvert",
+          "en": "SeoulNamsanvert"
+        },
+        "Trademark": {
+          "ko": "서울남산체, Seoul Metropolitan Government is a registered trademark of Seoul Metropolitan Government.",
+          "en": "SeoulNamsan, is a registered trademark of Seoul Metropolitan Government."
+        },
+        "Manufacturer": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "Designer": {
+          "ko": "(주)타입포디자인그룹",
+          "en": "Type4Design CO., LTD."
+        },
+        "URL Vendor": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "License Description": {
+          "ko": "Type4Design CO., LTD.",
+          "en": "Type4Design CO., LTD."
+        },
+        "License Info URL": {
+          "ko": "www.typodesign.co.kr",
+          "en": "www.typodesign.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "서울남산체",
+          "en": "SeoulNamsan"
+        },
+        "Typographic Subfamily": {
+          "ko": "vert",
+          "en": "vert"
+        }
+      }
+    },
+    {
+      "id": "shilla-culture-b",
+      "family": "shilla_culture-b",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/shilla_culture/shilla_culture-b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 7,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2021 Gyeongju City Hall.All right reserved.",
+          "en": "Copyright 2021 Gyeongju City Hall.All right reserved."
+        },
+        "Font Family": {
+          "ko": "신라문화체(B)",
+          "en": "Shilla_Culture(B)"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "Shilla_Culture(B) Bold:Version 0.66"
+        },
+        "Full Font Name": {
+          "ko": "신라문화체(B)",
+          "en": "Shilla_Culture(B) Bold"
+        },
+        "Version": {
+          "ko": "Version 1.00 October 06, 2021",
+          "en": "Version 0.66 October 7, 2021"
+        },
+        "PostScript Name": {
+          "en": "Shilla_CultureB-Bold"
+        },
+        "Manufacturer": {
+          "en": "경주시청"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "다온폰트"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "License Description": {
+          "ko": "경주시청"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold"
+        }
+      }
+    },
+    {
+      "id": "shilla-culture-m",
+      "family": "shilla_culture-m",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/shilla_culture/shilla_culture-m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2021 Gyeongju City Hall.All right reserved.",
+          "en": "Copyright 2021 Gyeongju City Hall.All right reserved."
+        },
+        "Font Family": {
+          "ko": "신라문화체(M)",
+          "en": "Shilla_Culture(M)"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Medium",
+          "en": "Medium"
+        },
+        "Unique Font Identifier": {
+          "en": "Shilla_Culture(M) Medium:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "신라문화체(M)",
+          "en": "Shilla_Culture(M) Medium"
+        },
+        "Version": {
+          "ko": "Version 1.00 October 06, 2021",
+          "en": "Version 1.00 October 7, 2021, initial release"
+        },
+        "PostScript Name": {
+          "en": "Shilla_CultureM-Medium"
+        },
+        "Manufacturer": {
+          "en": "경주시청"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "다온폰트"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "License Description": {
+          "ko": "경주시청"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium"
+        }
+      }
+    },
+    {
+      "id": "shilla-gothic",
+      "family": "shilla_gothic",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/shilla_culture/shilla_gothic.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 7,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2021 Gyeongju City Hall.All right reserved.",
+          "en": "Copyright 2021 Gyeongju City Hall.All right reserved."
+        },
+        "Font Family": {
+          "ko": "신라고딕체",
+          "en": "Shilla_Gothic"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "Shilla_Gothic Bold:Version 1.00"
+        },
+        "Full Font Name": {
+          "ko": "신라고딕체",
+          "en": "Shilla_Gothic Bold"
+        },
+        "Version": {
+          "ko": "Version 1.00 October 06, 2021",
+          "en": "Version 1.00 October 6, 2021, initial release"
+        },
+        "PostScript Name": {
+          "en": "Shilla_Gothic-Bold"
+        },
+        "Manufacturer": {
+          "en": "경주시청"
+        },
+        "Designer": {
+          "ko": "다온커뮤니케이션(다온폰트)",
+          "en": "다온커뮤니케이션(다온폰트)"
+        },
+        "URL Vendor": {
+          "en": "anidaon@naver.com"
+        },
+        "License Description": {
+          "ko": "경주시청"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold"
+        }
+      }
+    },
+    {
+      "id": "smu-snowflake-font",
+      "family": "smusnowflake",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/smu_snowflake_font/smu_snowflake_font.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 5,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.ddungsang.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Sookmyung Women's University. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "숙명눈꽃체 Regular",
+          "en": "SMUSnowflake Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;SMUSnowflake-Regular"
+        },
+        "Full Font Name": {
+          "ko": "숙명눈꽃체 Regular",
+          "en": "SMUSnowflake Regular"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20221013"
+        },
+        "PostScript Name": {
+          "en": "SMUSnowflake-Regular"
+        },
+        "Trademark": {
+          "en": "SMU Snowflake is a trademark of Sookmyung Women's University."
+        },
+        "Manufacturer": {
+          "en": "DDUNGSANG CORP."
+        },
+        "URL Vendor": {
+          "en": "http://www.ddungsang.com"
+        },
+        "Typographic Family": {
+          "ko": "숙명눈꽃체",
+          "en": "SMUSnowflake"
+        }
+      }
+    },
+    {
+      "id": "sokchobadabatang",
+      "family": "sokchobadabatang",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/sokchobada/sokchobadabatang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 3,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sokcho.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Sokchocity. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "속초바다 바탕",
+          "en": "Sokcho Bada Batang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;PTL ;SokchoBadaBatang"
+        },
+        "Full Font Name": {
+          "ko": "속초바다 바탕",
+          "en": "Sokcho Bada Batang"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20231017"
+        },
+        "PostScript Name": {
+          "en": "SokchoBadaBatang"
+        },
+        "Trademark": {
+          "ko": "속초바다 바탕은 속초시의 상표입니다.",
+          "en": "Sokcho Bada Batang is a trademark of Sokchocity."
+        },
+        "Manufacturer": {
+          "ko": "속초시",
+          "en": "SOKCHO CITY."
+        },
+        "Designer": {
+          "ko": "(주)티랩",
+          "en": "Tlab Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.sokcho.go.kr"
+        }
+      }
+    },
+    {
+      "id": "sokchobadacalligraphy",
+      "family": "sokchobadacalligraphy",
+      "categories": [
+        "handwriting"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/sokchobada/sokchobadacalligraphy.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sokcho.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Sokchocity. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "속초바다 손글씨",
+          "en": "Sokcho Bada Calligraphy"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;PTL ;SokchoBadaCalligraphy"
+        },
+        "Full Font Name": {
+          "ko": "속초바다 손글씨",
+          "en": "Sokcho Bada Calligraphy"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20231017"
+        },
+        "PostScript Name": {
+          "en": "SokchoBadaCalligraphy"
+        },
+        "Trademark": {
+          "ko": "속초바다 손글씨은 속초시의 상표입니다.",
+          "en": "Sokcho Bada Calligraphy is a trademark of Sokchocity."
+        },
+        "Manufacturer": {
+          "ko": "속초시",
+          "en": "SOKCHO CITY."
+        },
+        "Designer": {
+          "ko": "(주)티랩",
+          "en": "Tlab Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.sokcho.go.kr"
+        }
+      }
+    },
+    {
+      "id": "sokchobadadotum",
+      "family": "sokchobadadotum",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/sokchobada/sokchobadadotum.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 3,
+          "weight": 9,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 900,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sokcho.go.kr",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Sokchocity. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "속초바다 돋움",
+          "en": "Sokcho Bada Dotum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;PTL ;SokchoBadaDotum"
+        },
+        "Full Font Name": {
+          "ko": "속초바다 돋움",
+          "en": "Sokcho Bada Dotum"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20231017"
+        },
+        "PostScript Name": {
+          "en": "SokchoBadaDotum"
+        },
+        "Trademark": {
+          "ko": "속초바다 돋움은 속초시의 상표입니다.",
+          "en": "Sokcho Bada Dotum is a trademark of Sokchocity."
+        },
+        "Manufacturer": {
+          "ko": "속초시",
+          "en": "SOKCHO CITY."
+        },
+        "Designer": {
+          "ko": "(주)티랩",
+          "en": "Tlab Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.sokcho.go.kr"
+        }
+      }
+    },
+    {
+      "id": "stellar",
+      "family": "stellar_serif_bold_condensed",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/stellar/stellar.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 6,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 3,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.dongseo.ac.kr/kr/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2026 DONGSEO UNIVERSITY. All rights reserved. Font designed by DONGSEO UNIVERSITY.",
+          "en": "Copyright (c) 2026 DONGSEO UNIVERSITY. All rights reserved. Font designed by DONGSEO UNIVERSITY."
+        },
+        "Font Family": {
+          "ko": "스텔라체 OTF Bold Condensed",
+          "en": "Stellar Serif OTF Bold Condensed"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "DONGSEO UNIVERSITY;Stellar Serif OTF;Bold Condensed"
+        },
+        "Full Font Name": {
+          "ko": "스텔라체 OTF Bold Condensed",
+          "en": "Stellar Serif OTF Bold Condensed"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "StellarSerifOTFB"
+        },
+        "Trademark": {
+          "en": "Stellar Serif OTF Bold Condensed is a registered trademark of DONGSEO UNIVERSITY."
+        },
+        "Manufacturer": {
+          "en": "DONGSEO UNIVERSITY"
+        },
+        "Designer": {
+          "ko": "크리에이티브 디렉션: 김경원; 디자인 디렉션: 박용락; 폰트디자인: 박민우",
+          "en": "Creative Direction By Kyung Won Kim; Design Direction By Yong Rak Park; Font Design By Min Woo Park;"
+        },
+        "URL Vendor": {
+          "en": "https://www.dongseo.ac.kr/kr/"
+        },
+        "Typographic Family": {
+          "ko": "스텔라체 OTF",
+          "en": "Stellar Serif OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold Condensed",
+          "en": "Bold Condensed"
+        }
+      }
+    },
+    {
+      "id": "suncheonb",
+      "family": "suncheonb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.20",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/suncheon/suncheonb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoonfont.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 1989-2010 Yoon Design Inc. All Rights Reserved.",
+          "en": "Copyright 1989-2010 Yoon Design Inc. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "순천 B",
+          "en": "Suncheon B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "Yoon_Design_SuncheonB",
+          "en": "Yoon_Design_SuncheonB"
+        },
+        "Full Font Name": {
+          "ko": "순천 B",
+          "en": "Suncheon B"
+        },
+        "Version": {
+          "ko": "Version 1.20;Build 20100902",
+          "en": "Version 1.20;Build 20100902"
+        },
+        "PostScript Name": {
+          "ko": "SuncheonB",
+          "en": "SuncheonB"
+        },
+        "Trademark": {
+          "ko": "SuncheonB is a registered trademark of Yoon Design Inc.",
+          "en": "SuncheonB is a registered trademark of Yoon Design Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoonfont.co.kr"
+        },
+        "License Info URL": {
+          "en": "http://www.yoonfont.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "순천",
+          "en": "Suncheon"
+        },
+        "Typographic Subfamily": {
+          "ko": "B",
+          "en": "B"
+        }
+      }
+    },
+    {
+      "id": "suncheonr",
+      "family": "suncheonr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.20",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/suncheon/suncheonr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoonfont.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 1989-2010 Yoon Design Inc. All Rights Reserved.",
+          "en": "Copyright 1989-2010 Yoon Design Inc. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "순천 R",
+          "en": "Suncheon R"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "Yoon_Design_SuncheonR",
+          "en": "Yoon_Design_SuncheonR"
+        },
+        "Full Font Name": {
+          "ko": "순천 R",
+          "en": "Suncheon R"
+        },
+        "Version": {
+          "ko": "Version 1.20;Build 20100902",
+          "en": "Version 1.20;Build 20100902"
+        },
+        "PostScript Name": {
+          "ko": "SuncheonR",
+          "en": "SuncheonR"
+        },
+        "Trademark": {
+          "ko": "SuncheonR is a registered trademark of Yoon Design Inc.",
+          "en": "SuncheonR is a registered trademark of Yoon Design Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoonfont.co.kr"
+        },
+        "License Info URL": {
+          "en": "http://www.yoonfont.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "순천",
+          "en": "Suncheon"
+        },
+        "Typographic Subfamily": {
+          "ko": "R",
+          "en": "R"
+        }
+      }
+    },
+    {
+      "id": "suseongbatang",
+      "family": "suseongbatang",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/suseong/suseongbatang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.suseong.kr/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2021 Suseong district. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "수성바탕체",
+          "en": "Suseong Batang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TLAB;SuseongBatang"
+        },
+        "Full Font Name": {
+          "ko": "수성바탕체",
+          "en": "Suseong Batang"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20211007"
+        },
+        "PostScript Name": {
+          "en": "SuseongBatang-Regular"
+        },
+        "Trademark": {
+          "en": "Suseong Batang is a trademark of Suseong district."
+        },
+        "Manufacturer": {
+          "ko": "수성구청",
+          "en": "Suseong district"
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&Typolab"
+        },
+        "URL Vendor": {
+          "en": "http://www.suseong.kr/"
+        }
+      }
+    },
+    {
+      "id": "suseongdotum",
+      "family": "suseongdotum",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/suseong/suseongdotum.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.suseong.kr/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2021 Suseong district. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "수성돋움체",
+          "en": "Suseong Dotum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TLAB;SuseongDotum"
+        },
+        "Full Font Name": {
+          "ko": "수성돋움체",
+          "en": "Suseong Dotum"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20211103"
+        },
+        "PostScript Name": {
+          "en": "SuseongDotum-Regular"
+        },
+        "Trademark": {
+          "en": "Suseong Dotum is a trademark of Suseong district."
+        },
+        "Manufacturer": {
+          "ko": "수성구청",
+          "en": "Suseong district"
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&Typolab"
+        },
+        "URL Vendor": {
+          "en": "http://www.suseong.kr/"
+        }
+      }
+    },
+    {
+      "id": "suseonghyejeong",
+      "family": "suseonghyejeong",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/suseong/suseonghyejeong.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.suseong.kr/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) 2021 Suseong district. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "수성혜정체",
+          "en": "Suseong Hyejeong"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;TLAB;SuseongHyejeong"
+        },
+        "Full Font Name": {
+          "ko": "수성혜정체",
+          "en": "Suseong Hyejeong"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 20211007"
+        },
+        "PostScript Name": {
+          "en": "SuseongHyejeong-Regular"
+        },
+        "Trademark": {
+          "en": "Suseong Hyejeong is a trademark of Suseong district."
+        },
+        "Manufacturer": {
+          "ko": "수성구청",
+          "en": "Suseong district"
+        },
+        "Designer": {
+          "ko": "박윤정&타이포랩",
+          "en": "PYJ&Typolab"
+        },
+        "URL Vendor": {
+          "en": "http://www.suseong.kr/"
+        }
+      }
+    }
+  ]
+}

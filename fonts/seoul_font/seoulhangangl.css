@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'seoulhangangl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulhangangl.woff2') format('woff2');
+}

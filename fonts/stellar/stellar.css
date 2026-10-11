@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'stellar_serif_bold_condensed';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./stellar_serif_otf_bold_condensed.woff2') format('woff2');
+}

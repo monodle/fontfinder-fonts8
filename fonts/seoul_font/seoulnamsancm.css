@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'seoulnamsancm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulnamsancm.woff2') format('woff2');
+}

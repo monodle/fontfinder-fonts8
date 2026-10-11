@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'suncheonb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./suncheonb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'suncheonr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./suncheonr.woff2') format('woff2');
+}

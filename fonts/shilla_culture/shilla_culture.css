@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'shilla_culture-b';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./shilla_culture-b.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'shilla_culture-m';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./shilla_culture-m.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'shilla_gothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./shilla_gothic.woff2') format('woff2');
+}

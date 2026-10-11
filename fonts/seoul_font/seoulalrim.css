@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-extrabold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'seoulalrim';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('./seoulalrim-heavy.woff2') format('woff2');
+}

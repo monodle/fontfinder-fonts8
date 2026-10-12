@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'eastarjet-dl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./eastarjet-dl.woff2') format('woff2');
+}

@@ -2,6 +2,567 @@
   "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts9@20261011/fonts",
   "fonts": [
     {
+      "id": "eastarjet-dl",
+      "family": "eastarjet-dl",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/eastarjet/eastarjet-dl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 3,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2020 EASTARJET. All rights reserved."
+        },
+        "Font Family": {
+          "en": "EASTARJET DemiLight"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;EASTARJET-DemiLight"
+        },
+        "Full Font Name": {
+          "en": "EASTARJET DemiLight"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20200312"
+        },
+        "PostScript Name": {
+          "en": "EASTARJET-DemiLight"
+        },
+        "Trademark": {
+          "en": "EASTARJET DemiLight is a trademark of EASTARJET."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Im, kwangkyu;Jeong, songwon;Park, hyunjun;Park, soohyun;Jang, inhee;Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Description": {
+          "en": "YoonDesign Inc."
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "en": "EASTARJET"
+        },
+        "Typographic Subfamily": {
+          "en": "DemiLight"
+        }
+      }
+    },
+    {
+      "id": "eastarjet-h",
+      "family": "eastarjet-h",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/eastarjet/eastarjet-h.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 9,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 900,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2020 EASTARJET. All rights reserved."
+        },
+        "Font Family": {
+          "en": "EASTARJET Heavy"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;EASTARJET-Heavy"
+        },
+        "Full Font Name": {
+          "en": "EASTARJET Heavy"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20200312"
+        },
+        "PostScript Name": {
+          "en": "EASTARJET-Heavy"
+        },
+        "Trademark": {
+          "en": "EASTARJET Heavy is a trademark of EASTARJET."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Im, kwangkyu;Jeong, songwon;Park, hyunjun;Park, soohyun;Jang, inhee;Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Description": {
+          "en": "YoonDesign Inc."
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "en": "EASTARJET"
+        },
+        "Typographic Subfamily": {
+          "en": "Heavy"
+        }
+      }
+    },
+    {
+      "id": "eastarjet-m",
+      "family": "eastarjet-m",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/eastarjet/eastarjet-m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2020 EASTARJET. All rights reserved."
+        },
+        "Font Family": {
+          "en": "EASTARJET Medium"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;EASTARJET-Medium"
+        },
+        "Full Font Name": {
+          "en": "EASTARJET Medium"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20200312"
+        },
+        "PostScript Name": {
+          "en": "EASTARJET-Medium"
+        },
+        "Trademark": {
+          "en": "EASTARJET Medium is a trademark of EASTARJET."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Im, kwangkyu;Jeong, songwon;Park, hyunjun;Park, soohyun;Jang, inhee;Han, dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Description": {
+          "en": "YoonDesign Inc."
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "en": "EASTARJET"
+        },
+        "Typographic Subfamily": {
+          "en": "Medium"
+        }
+      }
+    },
+    {
+      "id": "elicedigitalbaeum",
+      "family": "elicedigitalbaeum",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/elicedigital/elicedigitalbaeum.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sandolltium.co.kr",
+      "metadata": {
+        "Font Family": {
+          "ko": "엘리스 디지털배움체 OTF",
+          "en": "Elice DigitalBaeum OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "EliceDigitalBaeumOTF",
+          "en": "EliceDigitalBaeumOTF"
+        },
+        "Full Font Name": {
+          "ko": "엘리스 디지털배움체 OTF",
+          "en": "Elice DigitalBaeum OTF"
+        },
+        "Version": {
+          "ko": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599",
+          "en": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599"
+        },
+        "PostScript Name": {
+          "ko": "EliceDigitalBaeumOTF",
+          "en": "EliceDigitalBaeumOTF"
+        },
+        "Copyright": {
+          "en": "Copyright (c) 2016-2021 elice. All rights reserved."
+        },
+        "Trademark": {
+          "en": "Elice DigitalBaeum OTF is a trademark of elice."
+        },
+        "Manufacturer": {
+          "ko": "Sandoll Tium Inc.",
+          "en": "Sandoll Tium Inc."
+        },
+        "Designer": {
+          "ko": "권경석; 임선영; 공석희; 김희진",
+          "en": "Kweon Kyoung-Seok; Im Sun-Young; Kong Seok-hee; Kim Hee-jin"
+        },
+        "URL Vendor": {
+          "ko": "http://www.sandolltium.co.kr",
+          "en": "http://www.sandolltium.co.kr"
+        },
+        "License Description": {
+          "en": "Elice"
+        },
+        "License Info URL": {
+          "en": "https://elice.io/"
+        }
+      }
+    },
+    {
+      "id": "elicedigitalcoding",
+      "family": "elicedigitalcoding",
+      "categories": [
+        "sans-serif",
+        "monospace"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.2",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/elicedigital/elicedigitalcoding.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 9,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sandolltium.co.kr",
+      "metadata": {
+        "Font Family": {
+          "ko": "엘리스 디지털코딩체 OTF",
+          "en": "Elice DigitalCoding OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "EliceDigitalCodingOTF",
+          "en": "EliceDigitalCodingOTF"
+        },
+        "Full Font Name": {
+          "ko": "엘리스 디지털코딩체 OTF",
+          "en": "Elice DigitalCoding OTF"
+        },
+        "Version": {
+          "ko": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599",
+          "en": "Version 1.2;hotconv 1.0.114;makeOTFexe 2.5.65599"
+        },
+        "PostScript Name": {
+          "ko": "EliceDigitalCodingOTF",
+          "en": "EliceDigitalCodingOTF"
+        },
+        "Copyright": {
+          "en": "Copyright (c) 2016-2021 elice. All rights reserved."
+        },
+        "Trademark": {
+          "en": "Elice DigitalCoding OTF is a trademark of elice."
+        },
+        "Manufacturer": {
+          "ko": "Sandoll Tium Inc.",
+          "en": "Sandoll Tium Inc."
+        },
+        "Designer": {
+          "ko": "권경석; 임선영;",
+          "en": "Kweon Kyoung-Seok; Im Sun-Young;"
+        },
+        "URL Vendor": {
+          "ko": "http://www.sandolltium.co.kr",
+          "en": "http://www.sandolltium.co.kr"
+        },
+        "License Description": {
+          "en": "Elice"
+        },
+        "License Info URL": {
+          "en": "https://elice.io/"
+        }
+      }
+    },
+    {
+      "id": "elicedxneolli",
+      "family": "elicedxneolli",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts8@20261011/fonts/elicedigital/elicedxneolli.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.sandolltium.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 Elice Inc. All Rights Reserved.",
+          "en": "Copyright (c) 2023 Elice Inc. All Rights Reserved."
+        },
+        "Font Family": {
+          "ko": "엘리스 DX널리체 OTF Bold",
+          "en": "Elice DX Neolli OTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;EliceDXNeolli"
+        },
+        "Full Font Name": {
+          "ko": "엘리스 DX널리체 OTF Bold",
+          "en": "Elice DX Neolli OTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65596"
+        },
+        "PostScript Name": {
+          "en": "EliceDXNeolliOTF-Bd"
+        },
+        "Trademark": {
+          "en": "Elice DX Neolli OTF is a trademark of Elice Inc."
+        },
+        "Manufacturer": {
+          "en": "Sandolltium Inc."
+        },
+        "Designer": {
+          "ko": "권경석, 임선영, 채세현, 한자은",
+          "en": "Kweon Kyoung-Seok, Im Sun-young, Chae Se-hyun, Han Ja-eun"
+        },
+        "URL Vendor": {
+          "en": "http://www.sandolltium.co.kr"
+        },
+        "License Description": {
+          "en": "Elice Inc."
+        },
+        "License Info URL": {
+          "en": "https://elice.io/"
+        },
+        "Typographic Family": {
+          "ko": "엘리스 DX널리체 OTF",
+          "en": "Elice DX Neolli OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
       "id": "otsahmyookuniversityl",
       "family": "otsahmyookuniversityl",
       "categories": [

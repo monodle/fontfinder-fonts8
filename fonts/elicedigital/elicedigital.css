@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'elicedigitalbaeum';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./elicedigitalbaeumotf_regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'elicedigitalbaeum';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./elicedigitalbaeumotf_bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'elicedigitalcoding';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./elicedigitalcodingotf_regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'elicedigitalcoding';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./elicedigitalcodingotf_bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'elicedxneolli';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./elicedxneolliotf-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'elicedxneolli';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./elicedxneolliotf-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'elicedxneolli';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./elicedxneolliotf-bold.woff2') format('woff2');
+}
